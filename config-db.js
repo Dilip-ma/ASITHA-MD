@@ -1,5 +1,5 @@
 
-const GITHUB_AUTH_TOKEN = ""
+const GITHUB_AUTH_TOKEN = "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"
 const GITHUB_USERNAME = "Dilip-ma"
 const SESSION_ID = "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=Du5UxBYD#cIfSr3OK8AVw-XukGB7ArnNYiS1_5FFPjK7Ao749-zE"
 
